@@ -1,0 +1,3 @@
+displayName = Tutorial Mod
+author = ANewbie
+version = 0.1
