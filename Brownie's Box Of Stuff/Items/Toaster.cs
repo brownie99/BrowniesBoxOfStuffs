@@ -1,10 +1,10 @@
-using TutorialMod.Projectiles;
+using BrowniesBoxOfStuffs.Projectiles;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace TutorialMod.Items
+namespace BrowniesBoxOfStuffs.Items
 {
 	public class Toaster : ModItem
 	{
@@ -31,11 +31,14 @@ namespace TutorialMod.Items
 			item.autoReuse = true;
 			item.shoot = ProjectileType<Toast>();
 			item.shootSpeed = 16f;
+			
 		}
 
 		public override void AddRecipes() {
 			ModRecipe recipe = new ModRecipe(mod);
-			recipe.AddIngredient(ItemID.DemoniteBar, 10);
+			recipe.AddRecipeGroup("IronBar", 12);
+			recipe.AddIngredient(ItemID.Torch, 5);
+			recipe.AddIngredient(ItemID.FallenStar, 3);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

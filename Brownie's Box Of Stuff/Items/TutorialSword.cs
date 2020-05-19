@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace TutorialMod.Items
+namespace BrowniesBoxOfStuffs.Items
 {
 	public class TutorialSword : ModItem
 	{

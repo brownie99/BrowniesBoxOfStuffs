@@ -1,10 +1,10 @@
-using TutorialMod.Projectiles;
+using BrowniesBoxOfStuffs.Projectiles;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace TutorialMod.Items
+namespace BrowniesBoxOfStuffs.Items
 {
     public class TestSword : ModItem
     {
