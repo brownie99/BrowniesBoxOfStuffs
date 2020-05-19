@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hORVV+OaVuW01q5DLTyZFelrkENQuuSyAg/0xvR+fZUs+RQEIT8k8xokmdF6w1djd+PUBtlGcI/v6Sq9OSTi+g==",
+  "dgSpecHash": "WXg9h4AB1QyDT4BBSehLnTdCegpQOoeouIfp+0dtF04YuVloD5OsDGM2JJDZFgRnxoxKwz9250Xs61RDlzSt1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\BrowniesBoxOfStuffs.csproj",
+  "projectFilePath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\BrowniesBoxOfStuffs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Scott\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\BrowniesBoxOfStuffs.csproj": {}
+    "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\BrowniesBoxOfStuffs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\BrowniesBoxOfStuffs.csproj": {
+    "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\BrowniesBoxOfStuffs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\BrowniesBoxOfStuffs.csproj",
+        "projectUniqueName": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\BrowniesBoxOfStuffs.csproj",
         "projectName": "BrowniesBoxOfStuffs",
-        "projectPath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\BrowniesBoxOfStuffs.csproj",
+        "projectPath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\BrowniesBoxOfStuffs.csproj",
         "packagesPath": "C:\\Users\\Scott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\Brownie's Box Of Stuff\\obj\\",
+        "outputPath": "C:\\Users\\Scott\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BrowniesBoxOfStuffs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
