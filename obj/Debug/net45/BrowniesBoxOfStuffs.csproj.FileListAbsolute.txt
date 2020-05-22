@@ -16,7 +16,6 @@ C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfSt
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\ReLogic.dll
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\Steamworks.NET.dll
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\System.ValueTuple.dll
-C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\Terraria.Libraries.JSON.NET.Newtonsoft.Json.dll
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\TerrariaHooks.dll
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\tModLoader.exe
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\tModLoader.pdb
@@ -30,3 +29,4 @@ C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfSt
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\obj\Debug\net45\BrowniesBoxOfStuffs.csproj.CopyComplete
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\obj\Debug\net45\BrowniesBoxOfStuffs.dll
 C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\obj\Debug\net45\BrowniesBoxOfStuffs.pdb
+C:\Users\Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\BrowniesBoxOfStuffs\bin\Debug\net45\Newtonsoft.Json.dll

@@ -38,7 +38,9 @@ namespace BrowniesBoxOfStuffs.Items
 			ModRecipe recipe = new ModRecipe(mod);
 			recipe.AddRecipeGroup("IronBar", 12);
 			recipe.AddIngredient(ItemID.Torch, 5);
-			recipe.AddIngredient(ItemID.FallenStar, 3);
+			recipe.AddIngredient(ItemID.FallenStar, 5);
+			recipe.AddIngredient(ItemID.Hay, 10);
+			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

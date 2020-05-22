@@ -43,6 +43,7 @@ namespace BrowniesBoxOfStuffs.Items
 			recipe.AddIngredient(ItemID.SoulofLight, 10);
 			recipe.AddIngredient(ItemID.Ectoplasm, 30);
 			recipe.AddIngredient(mod, "HellstoneToaster");
+			recipe.AddTile(TileID.MythrilAnvil);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

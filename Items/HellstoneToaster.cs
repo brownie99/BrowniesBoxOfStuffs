@@ -41,6 +41,7 @@ namespace BrowniesBoxOfStuffs.Items
 			recipe.AddIngredient(ItemID.HellstoneBar, 12);
 			recipe.AddIngredient(ItemID.Obsidian, 10);
 			recipe.AddIngredient(mod, "Toaster");
+			recipe.AddTile(TileID.Anvils);
 			recipe.SetResult(this);
 			recipe.AddRecipe();
 		}

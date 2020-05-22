@@ -65,8 +65,14 @@ namespace BrowniesBoxOfStuffs.Projectiles
 
 
 		public override void OnHitNPC(NPC target, int damage, float knockback, bool crit) {
-			projectile.ai[0] += 0.1f;
-			projectile.velocity *= 0.75f;
+			int dust1 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust2 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust3 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust4 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust5 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust6 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust7 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
+			int dust8 = Dust.NewDust(projectile.position, 4, 4, 0, 0f, 0f, 0, default(Color), 1.3f);
 		}
 	}
 }
